@@ -1,14 +1,11 @@
-# Esercizio
-
-Sulla base della lezione del giorno creare un progetto chiamato `twitter-clone` utilizzando Vite.
+# Esercizio 07-03-2023
 
 - Creare una struttura simile a quanto visto a lezione, in ottica mobile-first;
-- Completare almeno la sezione relativa ai messagi, `<Content />`;
-- Aiutarsi con i grafici come visto a lezione.
+- Creare la sezione SideTrends
 
-> Trovate in allegato i grafici che abbiamo realizzato a lezione
+NB: ricordate che se volete utilizzare le icone dalla libreria React Icons dovete prima installarla...
+Docs: https://react-icons.github.io/react-icons
 
 # Avanzato
 
-Completare tutta l'applicazione ad esclusione del componente `<TrendItem />`
-# twitter-clone
+- Agguingere Hamburger Menu
